@@ -6,6 +6,10 @@
 In this project, I create a demo scene to demonstrate the capabilities of Hand-Tracking feature in HoloKit SDK.
 
 # Demos
+
+https://github.com/holoi/finger-saber/assets/52849063/a2e526a5-8b06-480e-8aa6-85406d734083
+
+
 # Features/How does it work
 
 Our hand-tracking feature provides 21 joints of each hand:
