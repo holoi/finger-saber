@@ -31,3 +31,9 @@ Make sure your Unity had install the iOS module:
 I built this project to iPhone with Xcode 14.2.
 
 # How to try it
+
+1. Clone the project.
+2. Open with Unity.
+3. Go to: Scenes→FingerSaber→FingerSaber New
+4. Open the scene, build into an Xcode project.
+5. Open with Xcode and build to you mobile device.
