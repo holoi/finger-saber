@@ -16,7 +16,7 @@ Our hand-tracking feature provides 21 joints of each hand:
 <img width="1082" alt="image" src="https://github.com/holoi/finger-saber/assets/52849063/ab56ab3a-47df-4aec-87f9-a9fc5f3b09b9">
 
 
-In this scene, i take positions of TIP and IP to calculate approximately directions of each finger. Then, add saber visual effect along the direction:
+In this scene, it takes positions of TIP and IP to calculate approximately directions of each finger. Then, add saber visual effect along the direction:
 <img width="1085" alt="image" src="https://github.com/holoi/finger-saber/assets/52849063/9d538372-a771-4e29-909d-6e27a80e8bff">
 
 
